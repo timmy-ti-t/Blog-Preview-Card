@@ -97,3 +97,13 @@ body{
         font-size: 1.80rem;
     }
 }
+@media (max-width:320px){
+    .box{
+        max-width: 290px;
+    }
+}
+@media (min-width:425px){
+    .box{
+        max-width: 390px;
+    }
+}
